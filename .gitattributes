@@ -1,0 +1,20 @@
+# Set default behavior, in case users don't have core.autocrlf set.
+* text=auto
+
+# Force specific files to always have LF line endings on checkout.
+*.md text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+*.py text eol=lf
+*.js text eol=lf
+*.sh text eol=lf
+
+# Ensure binary files are treated as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.zip binary
+*.gz binary
+# Add other binary types as needed 
