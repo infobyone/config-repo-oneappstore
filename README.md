@@ -30,8 +30,8 @@ Welcome! This repository is the central template for listing your application in
 
     # Optional Fields:
     sha256sum: "a1b2c3d4..."        # (Highly Recommended) The SHA-256 hash (64 hex chars) of the file at download_url. Allows users to verify integrity. You can generate this using 'sha256sum <filename>' on Linux/macOS or 'Get-FileHash <filename> -Algorithm SHA256' in PowerShell.
-    # homepage: "https://your-app-homepage.com" # Optional link to the app's website.
-    # tags: ["utility", "game", "example"]  # Optional list of keywords/tags (client app might use these for filtering).
+    homepage: "https://your-app-homepage.com" # Optional link to the app's website.
+    tags: ["utility", "game", "example"]  # Optional list of keywords/tags (client app might use these for filtering).
     ```
 
 5.  **Commit and Push to Your Fork:** Save your `config.one` file, then commit and push the changes *only to your fork*:
@@ -58,4 +58,4 @@ To update your app's version, description, download URL, etc.:
 * If you set `takedown: true`, your app will be hidden from the list but not removed from the index permanently (set back to `false` to reappear).
 * To permanently remove your app, you can delete your fork or delete the `config.one` file within your fork (it will be removed from the index during the next run).
 
-Thank you for contributing to [Your Project Name]!
+Thank you for contributing to ONE APP STORE!
