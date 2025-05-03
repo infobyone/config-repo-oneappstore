@@ -1,0 +1,12 @@
+name: "My Cool App"             # Display name of your app
+author: "Your Name or Org"      # Author name
+version: "1.2.3"                # Semantic Versioning (MAJOR.MINOR.PATCH)
+description: "A brief description of what my cool app does." # Max 100 characters
+logo_url: "https://your-domain.com/path/to/logo.png" # HTTPS link to logo (PNG/JPG, max 512x512)
+download_url: "https://github.com/YourUsername/my-cool-app/releases/download/v1.2.3/my-cool-app.zip" # HTTPS link to file
+takedown: false                 # Set to true to hide listing
+
+# Optional
+sha256sum: "a1b2c3d4..."        # SHA-256 hash for file verification
+homepage: "https://your-app-homepage.com" # App website
+tags: ["utility", "game"]       # Keywords for filtering
