@@ -1,4 +1,4 @@
-# App Listing Repository for ONE APP STORE
+# App Listing Repository for [ONE APP STORE](https://www.skyious.github.io/oas)
 
 Welcome to the ONE APP STORE app listing repository! This is the central template for listing your application in our app store. To maintain the integrity of the template and automate the listing process, we use forks instead of direct contributions. Please follow the steps below to list your app using your own fork.
 
